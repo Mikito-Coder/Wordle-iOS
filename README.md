@@ -1,4 +1,4 @@
-# Project 1 - Wordle*
+# Project 1 - *Wordle*
 
 Submitted by: **Ifeoluwakiitan Ayandosu**
 
