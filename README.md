@@ -2,7 +2,7 @@
 
 Submitted by: **Ifeoluwakiitan Ayandosu**
 
-**Typle** is an app that ... [TODO] 
+**Typle** is an app that is a word puzzle game where players guess a hidden five-letter word within six attempts using deductive reasoning and letter feedback.
 
 Time spent: **4.5** hours spent in total
 
