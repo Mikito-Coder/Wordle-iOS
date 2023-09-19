@@ -24,10 +24,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+ 
+![Kapture 2023-09-18 at 23 51 01](https://github.com/Mikito-Coder/Wordle-iOS/assets/67525316/3228e849-0c9b-4015-b036-a05e5c6f77d0)
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 
 ## Notes
